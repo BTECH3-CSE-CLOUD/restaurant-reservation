@@ -1,1 +1,1 @@
-# Restaurant-reservation for Second Semester Exam
+# Reservation for Second Semester Exam
